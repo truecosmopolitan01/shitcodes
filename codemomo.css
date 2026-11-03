@@ -3,5 +3,5 @@
   border: 2px dotted red;
   height:1000px;
   width:300px;
-  display:block;
+  display:in-line block;
 }
